@@ -1,0 +1,1 @@
+See https://github.com/thaiprogrammer/foundation/blob/master/code-of-conduct.md
