@@ -1,10 +1,10 @@
 # Thai Programmer Association (TPA)
 
-![TPA Logo](./tpa-logo-black.png)
+![TPA Logo](./profile/tpa-logo-black.png)
 
 ----
 
-The [Thai Programmer Association (TPA)](https://www.thaiprogrammer.org) serves as a communal repository of information pertaining to programmers in Thailand.
+[Thai Programmer Association (TPA)](https://www.thaiprogrammer.org) serves as a communal repository of information pertaining to programmers in Thailand.
 
 We bring together the Thailand's top developers, end users, and vendors and run the open source developer conferences. TPA is the nonprofit foundation.
 
