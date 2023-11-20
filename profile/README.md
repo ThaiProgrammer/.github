@@ -1,6 +1,6 @@
 # Thai Programmer Association (TPA)
 
-![TPA Logo](./profile/tpa-logo-black.png)
+![TPA Logo](./profile/tpa-logo.png)
 
 ----
 
